@@ -9,6 +9,10 @@
 3. **字幕翻译：** 英文视频字幕自动翻译为中文，方便您更好地理解视频内容。
 4. **简单操作：** 使用Excel管理视频，操作简单易上手，即使不擅长技术也能轻松掌握。
 
+#### 小牛翻译的效果：
+- **原始视频：**  https://www.youtube.com/watch?v=yejXACdiEvk 
+- **小牛翻译后的视频：**  https://www.bilibili.com/video/BV1AK421b7yk
+
 #### 安装说明
 ##### 第一步：百度网盘下载
 [点击百度网盘下载](https://pan.baidu.com/s/1fwMqCGeGXPs7dW_5Gg_2Ow?pwd=8888 )
