@@ -42,7 +42,7 @@
 ##### 第三步：管理要下载的视频
 将您想要翻译的YouTube视频填写到提供的Excel表格（D:\小牛视频搬运\小牛视频管理.xlsx），即可自动下载并进行语音翻译。
 
-![操作说明](imageai.png)
+![操作说明](https://github.com/agan-j/xiaoniu/blob/main/b.png)
 
 ##### 如果您在使用过程中遇到任何困难，请联系作者微信：xiaoniu203040 帮您解决。
 
