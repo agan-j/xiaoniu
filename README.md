@@ -37,7 +37,7 @@
 必须解压在D盘根目录下，
 然后执行：D:\小牛视频搬运\小牛视频搬运.exe
 
-![安装](az.png)
+![安装](https://gitee.com/xiaoniu-video-handling/xiaoniu/blob/master/az.png))
 
 ##### 第三步：管理要下载的视频
 将您想要翻译的YouTube视频填写到提供的Excel表格（D:\小牛视频搬运\小牛视频管理.xlsx），即可自动下载并进行语音翻译。
