@@ -33,7 +33,6 @@
 - 百度网盘：https://pan.baidu.com/s/1fwMqCGeGXPs7dW_5Gg_2Ow?pwd=8888
 - 夸克网盘：https://pan.quark.cn/s/79c7cfd4685e
 - 123云盘： https://www.123pan.com/s/vLQ9-Ofw4.html
-- 坚果云盘：  https://www.jianguoyun.com/p/DZa2VcUQu5y8DBia9bkFIAA
 - 天翼云盘：https://cloud.189.cn/web/share?code=bqqymqMjY3mu（访问码：55lj）
 
 ##### 第二步：安装
