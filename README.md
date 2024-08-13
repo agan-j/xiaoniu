@@ -1,4 +1,4 @@
-# 《小牛视频翻译》(YouTube 油管 搬运) [☛查看下载地址](https://gitee.com/xiaoniu-video-handling/xiaoniu/blob/master/README.md#%E7%AC%AC%E4%B8%80%E6%AD%A5%E4%B8%8B%E8%BD%BD%E7%BB%BF%E8%89%B2%E7%89%88%E6%9C%AC)
+# 《小牛视频翻译》(YouTube 油管 搬运) [☛查看下载地址](https://github.com/agan-j/xiaoniu/blob/main/README.md#%E5%9B%9B%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E)
 #### 一、介绍:
 
 《小牛视频翻译》是一款智能AI翻译视频处理工具。首先，它能够将全球视频的语音和字幕自动翻译为中文语音和字幕，让用户更轻松地理解视频内容。其次，借助AI技术，可以生成全新的视频，让用户获得全新的视听体验。让你更好的学习全世界知识。
