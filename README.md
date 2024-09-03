@@ -16,8 +16,24 @@
 
 
 #### 三、小牛翻译的效果：
-- **原始视频：**  https://www.youtube.com/watch?v=yejXACdiEvk 
-- **小牛翻译后的视频：**  https://www.bilibili.com/video/BV1AK421b7yk
+<table>
+<tr>
+<td width="50%">
+
+**原始视频**
+
+https://github.com/agan-j/xiaoniu/blob/main/video/01.mp4
+
+</td>
+<td width="50%">
+
+**翻译效果**
+
+https://github.com/agan-j/xiaoniu/blob/main/video/011.mp4
+
+</td>
+</tr>
+</table>
 
 #### 四、系统展示：
 <img src="img/01.png" />
