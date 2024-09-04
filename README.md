@@ -22,14 +22,14 @@
 
 **原始视频**
 
-https://github.com/agan-j/xiaoniu/blob/main/video/01.mp4
+https://github.com/user-attachments/assets/a635bc46-ede4-4409-b2e7-d1e061c27b85
 
 </td>
 <td width="50%">
 
 **翻译效果**
 
-https://github.com/agan-j/xiaoniu/blob/main/video/011.mp4
+https://github.com/user-attachments/assets/ff512cc8-6c5f-4e3f-afe3-4f76cc01d658
 
 </td>
 </tr>
