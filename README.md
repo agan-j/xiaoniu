@@ -17,22 +17,14 @@
 
 #### 三、小牛翻译的效果：
 <table>
-<tr>
-<td width="50%">
-
-**原始视频**
-
-https://github.com/user-attachments/assets/a635bc46-ede4-4409-b2e7-d1e061c27b85
-
-</td>
-<td width="50%">
-
-**翻译效果**
-
-https://github.com/user-attachments/assets/ff512cc8-6c5f-4e3f-afe3-4f76cc01d658
-
-</td>
-</tr>
+  <tr>
+    <th>翻译前</th>
+    <th>翻译后</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.bilibili.com/video/BV14aHZeXEgX" target="_blank">动物世界解说-原版(b站演示)</a></td>
+    <td><a href="https://www.bilibili.com/video/BV14aHZeXEuk" target="_blank">动物世界解说-翻译效果(b站演示)</a></td>
+  </tr>
 </table>
 
 #### 四、系统展示：
