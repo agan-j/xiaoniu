@@ -25,6 +25,10 @@
     <td><a href="https://www.bilibili.com/video/BV14aHZeXEgX" target="_blank">动物世界解说-原版(b站演示)</a></td>
     <td><a href="https://www.bilibili.com/video/BV14aHZeXEuk" target="_blank">动物世界解说-翻译效果(b站演示)</a></td>
   </tr>
+      <tr>
+    <td><a href="https://www.bilibili.com/video/BV1p3txezEfU" target="_blank">多人对话-男女旅游对话-韩文转中文-原版(b站演示)</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1A3txe6EZM" target="_blank">多人对话-男女旅游对话-韩文转中文-翻译效果(b站演示)</a></td>
+  </tr>
 </table>
 
 #### 四、系统展示：
