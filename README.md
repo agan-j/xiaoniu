@@ -33,9 +33,9 @@
 <img src="img/L03.png" />
 <img src="img/L04.png" />
 
-<img src="img/01.png" />
-<img src="img/02.png" />
-<img src="img/03.png" />
+<img src="img/Y01.png" />
+<img src="img/Y02.png" />
+<img src="img/Y03.png" />
 
 #### 四、安装说明
 ##### 第一步：下载绿色版本
