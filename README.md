@@ -1,4 +1,4 @@
-# 《小牛视频翻译》(YouTube 油管 搬运) [☛查看下载地址](https://github.com/agan-j/xiaoniu?tab=readme-ov-file#%E5%9B%9B%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E)
+# 《小牛视频翻译》(YouTube 油管 搬运) [☛查看下载地址](https://github.com/agan-j/xiaoniu?tab=readme-ov-file#%E4%B8%83%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E)
 
 #### 一、介绍:
 
@@ -30,7 +30,7 @@
 今天的小牛视频翻译，已经帮助成千上万的用户将他们的内容传播到更远的地方。我希望，每一位视频创作者都能借助这个工具，触及全球的观众。
 
 #### 四、开源计划：取决于社区反馈 
-小牛是否开源，完全取决于你的声音！我们相信，开源的真正价值来自于社区的支持和参与。如果你希望小牛开源，或者有创意想法和实际需求，欢迎在 **[Issues](https://gitee.com/xiaoniu-video-handling/xiaoniu/issues)** 中踊跃提出。  
+小牛是否开源，完全取决于你的声音！我们相信，开源的真正价值来自于社区的支持和参与。如果你希望小牛开源，或者有创意想法和实际需求，欢迎在 **[Issues](https://github.com/agan-j/xiaoniu/issues)** 中踊跃提出。  
 
 #### 五、小牛翻译的效果：
 <table>
