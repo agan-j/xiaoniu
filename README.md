@@ -72,7 +72,7 @@
 - **百度网盘**：https://pan.baidu.com/s/1MdKsys8VlxZilt6GwREoYg?pwd=8888` 
 - **夸克网盘**（不限速）：https://pan.quark.cn/s/79c7cfd4685e
 - **123云盘**（不限速）：https://www.123pan.com/s/vLQ9-Ofw4.html
-- **天翼云盘**（不限速）：https://cloud.189.cn/web/share?code=bqqymqMjY3mu
+- **天翼云盘**（不限速）：https://cloud.189.cn/web/share?code=bqqymqMjY3mu（访问码：55lj）
 
 ### **GPU版本**（适合有独立显卡的用户）
 - **百度网盘**：https://pan.baidu.com/s/1S50h3-Jcskp-GCVayx0FCQ?pwd=8888
