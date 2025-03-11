@@ -35,20 +35,23 @@
 #### 五、小牛翻译的效果：
 <table>
   <tr>
-    <th>翻译前</th>
-    <th>翻译后</th>
+    <th>真实用户的翻译案例</th>
   </tr>
   <tr>
-    <td><a href="https://www.bilibili.com/video/BV14aHZeXEgX" target="_blank">视频解释-《泥跳鱼》-原版</a></td>
-    <td><a href="https://www.bilibili.com/video/BV14aHZeXEuk" target="_blank">视频解释-《泥跳鱼》-翻译版本</a></td>
+    <td><a href="https://www.bilibili.com/video/BV1j9NaeREU4" target="_blank">股票交易员的故事</a></td>
   </tr>
-    <tr>
-    <td><a href="https://www.bilibili.com/video/BV1p3txezEfU" target="_blank">多人对话-《男女旅游对话》-韩文转中文-原版</a></td>
-    <td><a href="https://www.bilibili.com/video/BV1A3txe6EZM" target="_blank">多人对话-《男女旅游对话》-韩文转中文-翻译版本</a></td>
+  <tr>
+    <td><a href="https://www.bilibili.com/video/BV14aHZeXEuk" target="_blank">视频解释-《泥跳鱼》</a></td>
   </tr>
-    <tr>
-    <td><a href="https://www.bilibili.com/video/BV1T3sCeXERM" target="_blank">多人对话-《李飞飞融资2.3亿美元，彭博社采访》-原版</a></td>
-    <td><a href="https://www.bilibili.com/video/BV1mgsCepEbk" target="_blank">多人对话-《李飞飞融资2.3亿美元，彭博社采访》-翻译版本</a></td>
+  <tr>
+    <td><a href="https://www.bilibili.com/video/BV1mgsCepEbk" target="_blank">多人对话-《李飞飞融资2.3亿美元，访谈节目》</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.douyin.com/video/7358345272268786982" target="_blank">视频解释-《大猫》</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://v.douyin.com/i5DCjb1x" target="_blank">视频解释-《七个世界，一个星球》</a></td>
   </tr>
 </table>
 
