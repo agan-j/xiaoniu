@@ -4,7 +4,26 @@
 
 《小牛AI视频翻译》是一款视频AI翻译工具。它可以一键将视频中的语音或字幕翻译成中文、英语、日语、法语、韩语等多种语言，轻松实现多语言版本。通过AI技术，它还能生成全新的翻译视频，自动保留背景音效并替换为新的翻译语音，实现声音和嘴型的精准同步。
 无论是制作短剧，还是企业推广抖音、TikTok、YouTube等平台的视频，《小牛AI视频翻译》都能助您轻松跨越语言障碍，让视频在全球范围内更广泛地传播与分享。
-<img src="img/niu.png" />
+
+
+<table>
+<tr>
+<td width="50%">
+
+### 📝 翻译前  
+---
+https://github.com/user-attachments/assets/72110608-de16-4db1-b390-a8cdc39e3079
+
+</td>
+<td width="50%">
+
+### 🌍 翻译后  
+---
+https://github.com/user-attachments/assets/e598dabb-fa43-416a-a9ca-e533f5894b33
+
+</td>
+</tr>
+</table>
 
 #### 二、核心功能:
 1. **视频翻译：** 一键翻译视频中的语音或字幕为中文、英语、日语、法语、韩语等多种语言，支持本地和YouTube视频，让您轻松创建多语言版本，拓展全球传播。
@@ -56,6 +75,7 @@
 </table>
 
 #### 六、系统展示：
+<img src="img/niu.png" />
 <img src="img/10.png" />
 <img src="img/11.png" />
 <img src="img/12.png" />
