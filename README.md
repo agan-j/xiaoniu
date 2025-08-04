@@ -8,30 +8,28 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="25%">
 
 ### 📝 视频组 1 - 翻译前  
 ---
 https://github.com/user-attachments/assets/72110608-de16-4db1-b390-a8cdc39e3079
 
 </td>
-<td width="50%">
+<td width="25%">
 
 ### 🌍 视频组 1 - 翻译后  
 ---
 https://github.com/user-attachments/assets/e598dabb-fa43-416a-a9ca-e533f5894b33
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="25%">
 
 ### 📝 视频组 2 - 翻译前  
 ---
 https://github.com/user-attachments/assets/660d8563-6331-4d29-abe8-de08062628e2
 
 </td>
-<td width="50%">
+<td width="25%">
 
 ### 🌍 视频组 2 - 翻译后  
 ---
@@ -40,6 +38,7 @@ https://github.com/user-attachments/assets/79dd3d0b-0c10-4cbe-84dd-aae1ab41ec74
 </td>
 </tr>
 </table>
+
 
 
 #### 二、核心功能:
