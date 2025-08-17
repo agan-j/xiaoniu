@@ -136,6 +136,12 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 <img src="img/wx.png" alt="Description" width="200"/>
 
 ## 软件更新历史记录
+
+### 2025年8月17日
+增加了字幕的免费字体、字体颜色、字体大小、字体高度、描边粗细、描边颜色等6大字幕样式功能
+
+---
+
 ### 2025年7月27日
 
 上线「上传字幕」功能，跳过转写直达成片，省时省钱更省心：
