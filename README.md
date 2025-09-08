@@ -111,7 +111,8 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 
 ### **CPU版本**
 - Windows下载地址：https://modelscope.cn/models/bobo0218bo/niu/resolve/master/%E5%B0%8F%E7%89%9B%E8%A7%86%E9%A2%91%E7%BF%BB%E8%AF%91.rar
-Mac 下载地址
+
+- Mac 下载地址
 - 百度网盘：https://pan.baidu.com/s/14_1ZTT1Xnjkyhf25KLTfDw?pwd=jfed
 - 夸克网盘：https://pan.quark.cn/s/82bbd1f3daa7
 - 123云盘（不限速）：https://www.123684.com/s/vLQ9-Q7P4
