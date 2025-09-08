@@ -113,7 +113,7 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 - https://modelscope.cn/models/bobo0218bo/niu/resolve/master/%E5%B0%8F%E7%89%9B%E8%A7%86%E9%A2%91%E7%BF%BB%E8%AF%91.rar
 
 ### **GPU版本**（适合有独立显卡的用户）
-https://modelscope.cn/models/bobo0218bo/niu/resolve/master/%E5%B0%8F%E7%89%9B%E8%A7%86%E9%A2%91%E7%BF%BB%E8%AF%91-GPU%E7%89%88%E6%9C%AC-CUDA-124.rar
+- https://modelscope.cn/models/bobo0218bo/niu/resolve/master/%E5%B0%8F%E7%89%9B%E8%A7%86%E9%A2%91%E7%BF%BB%E8%AF%91-GPU%E7%89%88%E6%9C%AC-CUDA-124.rar
   
 ### **模型文件**（建议提前下载）  
 如果不提前下载，软件运行时会自动下载，但速度可能较慢。  
