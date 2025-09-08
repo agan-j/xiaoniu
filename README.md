@@ -113,11 +113,11 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 - Windows下载地址：https://modelscope.cn/models/bobo0218bo/niu/resolve/master/%E5%B0%8F%E7%89%9B%E8%A7%86%E9%A2%91%E7%BF%BB%E8%AF%91.rar
 
 - Mac 下载地址
-- 百度网盘：https://pan.baidu.com/s/14_1ZTT1Xnjkyhf25KLTfDw?pwd=jfed
-- 夸克网盘：https://pan.quark.cn/s/82bbd1f3daa7
-- 123云盘（不限速）：https://www.123684.com/s/vLQ9-Q7P4
-- 天翼云盘（不限速）：https://cloud.189.cn/web/share?code=UZrYfyMJBRZf（访问码：mxq5）
-- 
+  百度网盘：https://pan.baidu.com/s/14_1ZTT1Xnjkyhf25KLTfDw?pwd=jfed
+  夸克网盘：https://pan.quark.cn/s/82bbd1f3daa7
+  123云盘（不限速）：https://www.123684.com/s/vLQ9-Q7P4
+  天翼云盘（不限速）：https://cloud.189.cn/web/share?code=UZrYfyMJBRZf（访问码：mxq5）
+  
 ### **GPU版本**（适合有独立显卡的用户）
 - https://modelscope.cn/models/bobo0218bo/niu/resolve/master/%E5%B0%8F%E7%89%9B%E8%A7%86%E9%A2%91%E7%BF%BB%E8%AF%91-GPU%E7%89%88%E6%9C%AC-CUDA-124.rar
   
