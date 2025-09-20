@@ -109,32 +109,15 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 
 | 操作系统 | 下载地址 |
 |----------|----------|
-| **Win**  | |
-| CPU版本 | [下载CPU版本](#) |
-| GPU版本(CUDA12.7以下) | [下载GPU CUDA12.7以下版本](#) |
-| GPU版本(50显卡) | [下载RTX50系列GPU版本](#) |
-| **Mac**  | |
-| Intel芯片 | [下载Intel芯片Mac版本](#) |
-| M系列芯片 | [下载M系列Mac版本](#) |
+| **Win系统**  | |
+| CPU版本 | [下载CPU版本](https://modelscope.cn/models/bobo0218bo/niu/resolve/master/%E5%B0%8F%E7%89%9B%E8%A7%86%E9%A2%91%E7%BF%BB%E8%AF%91.rar) |
+| GPU版本(CUDA12.7以下) | [下载GPU CUDA12.7以下版本](https://modelscope.cn/models/bobo0218bo/niu/resolve/master/%E5%B0%8F%E7%89%9B%E8%A7%86%E9%A2%91%E7%BF%BB%E8%AF%91-GPU%E7%89%88%E6%9C%AC-CUDA-124.rar) |
+| GPU版本(50显卡) | [下载RTX50系列GPU版本](https://modelscope.cn/models/bobo0218bo/niu/resolve/master/%E5%B0%8F%E7%89%9B%E8%A7%86%E9%A2%91%E7%BF%BB%E8%AF%91GPU%E7%89%88%E6%9C%ACCUDA129.rar) |
+| **Mac系统**  | |
+| Intel芯片 | [下载Intel芯片Mac版本](https://modelscope.cn/models/bobo0218bo/IndexTTS/resolve/master/Mac_Intel.rar) |
+| M系列芯片 | [下载M系列Mac版本](https://modelscope.cn/models/bobo0218bo/IndexTTS/resolve/master/Mac_Apple.rar) |
 
-## **第一步：下载绿色版本**  
-根据你的电脑配置选择对应的版本，绿色版无需安装，解压即可使用。
 
-### **CPU版本**
-- Windows下载地址：https://modelscope.cn/models/bobo0218bo/niu/resolve/master/%E5%B0%8F%E7%89%9B%E8%A7%86%E9%A2%91%E7%BF%BB%E8%AF%91.rar
-
-- Mac 下载地址
-  
-百度网盘：https://pan.baidu.com/s/14_1ZTT1Xnjkyhf25KLTfDw?pwd=jfed
-
-夸克网盘：https://pan.quark.cn/s/82bbd1f3daa7
-
-123云盘（不限速）：https://www.123684.com/s/vLQ9-Q7P4
-
-天翼云盘（不限速）：https://cloud.189.cn/web/share?code=UZrYfyMJBRZf（访问码：mxq5）
-  
-### **GPU版本**（适合有独立显卡的用户）
-- https://modelscope.cn/models/bobo0218bo/niu/resolve/master/%E5%B0%8F%E7%89%9B%E8%A7%86%E9%A2%91%E7%BF%BB%E8%AF%91-GPU%E7%89%88%E6%9C%AC-CUDA-124.rar
   
 ### **模型文件**（建议提前下载）  
 如果不提前下载，软件运行时会自动下载，但速度可能较慢。  
@@ -142,7 +125,7 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 - **天翼云盘**（不限速）：https://cloud.189.cn/t/neQ3y2uMr6Vv （访问码：bi9y）
 ---
 
-## **第二步：启动软件**  
+## **启动软件**  
 我们的绿色版本不需要安装，操作非常简单：  
 1. **解压文件**：下载后，将压缩包解压到任意位置。  
 2. **运行软件**：双击运行 `小牛视频翻译`。  
