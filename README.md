@@ -1,4 +1,4 @@
-# 《小牛视频翻译》(YouTube 油管 搬运) [☛查看下载地址](https://github.com/agan-j/xiaoniu?tab=readme-ov-file#%E4%B8%83%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E)
+# 《小牛视频翻译》(YouTube 油管 搬运) [☛查看下载地址](https://x6dk2ngzv4.feishu.cn/wiki/XLPBwK2X4iT0ndkDVQNcgwE7n4c)
 
 #### 一、介绍:
 
