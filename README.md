@@ -134,7 +134,7 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 
 
 ##### 如果您在使用过程中遇到任何困难，请加入微信群
-<img src="img/wx.png" alt="Description" width="600"/>
+<img src="img/wx.png?a=1" alt="Description" width="600"/>
 
 ## 软件更新历史记录
 
