@@ -33,7 +33,6 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 </tr>
 </table>
 
-
 <table>
 <tr>
 <td>
@@ -51,7 +50,8 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 <td>
 <video src="https://github.com/user-attachments/assets/d470fcbe-7c88-4d1b-bc05-3d0dd7382e72" controls width="200"></video>
 </td>
-
+</tr>
+<tr>
 <td>
 <video src="https://github.com/user-attachments/assets/e9139a87-c68d-4a0e-91e3-99c9ddb32744" controls width="200"></video>
 </td>
@@ -82,6 +82,8 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 <td>
 <video src="https://github.com/user-attachments/assets/847fcdb1-ee52-4105-ad73-87f9bbb6247e" controls width="200"></video>
 </td>
+</tr>
+<tr>
 <td>
 <video src="https://github.com/user-attachments/assets/75ed289e-be6d-4bb4-8806-60e036f30787" controls width="200"></video>
 </td>
@@ -97,7 +99,6 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 
 </tr>
 </table>
-
 
 
 #### 三、核心功能:
