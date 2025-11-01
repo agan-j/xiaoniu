@@ -33,6 +33,8 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 </tr>
 </table>
 
+短剧出海：采用声音克隆+嘴型对齐的技术，把短剧视频翻译为英语en、日语ja、西语es、葡语pt、法语fr、俄语ru、阿语ar 等，请大家观看体验。
+
 <table>
 <tr>
 <td>
