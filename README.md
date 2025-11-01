@@ -82,9 +82,6 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 <video src="https://github.com/user-attachments/assets/d470fcbe-7c88-4d1b-bc05-3d0dd7382e72" controls width="100"></video>
 </td>
 
-</tr>
-<tr>
-
 <td>
 <video src="https://github.com/user-attachments/assets/e9139a87-c68d-4a0e-91e3-99c9ddb32744" controls width="100"></video>
 </td>
