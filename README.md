@@ -8,36 +8,7 @@
 
 #### 二、小牛翻译的效果：
 <table>
-<tr>
-<td width="25%">
 
-### 📝 翻译前  
----
-https://github.com/user-attachments/assets/72110608-de16-4db1-b390-a8cdc39e3079
-
-</td>
-<td width="25%">
-
-### 🌍 翻译后  
----
-https://github.com/user-attachments/assets/e598dabb-fa43-416a-a9ca-e533f5894b33
-
-</td>
-<td width="25%">
-
-### 📝 翻译前  
----
-https://github.com/user-attachments/assets/660d8563-6331-4d29-abe8-de08062628e2
-
-</td>
-<td width="25%">
-
-### 🌍 翻译后  
----
-https://github.com/user-attachments/assets/79dd3d0b-0c10-4cbe-84dd-aae1ab41ec74
-
-</td>
-</tr>
 <tr>
 <td width="25%">
 
@@ -63,66 +34,65 @@ https://github.com/user-attachments/assets/49203f91-71b7-4a74-8bee-69b84f7aec9b
 </table>
 
 
-
 <table>
 <tr>
 <td>
-<video src="https://github.com/user-attachments/assets/9f2be588-ee99-46ae-bc70-46bf4e0a00a9" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/9f2be588-ee99-46ae-bc70-46bf4e0a00a9" controls width="150"></video>
 </td>
 
 <td>
-<video src="https://github.com/user-attachments/assets/ba9c96bc-c9fa-43f3-a9fb-d3269f4e0487" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/ba9c96bc-c9fa-43f3-a9fb-d3269f4e0487" controls width="150"></video>
 </td>
 
 <td>
-<video src="https://github.com/user-attachments/assets/294de18c-3ffb-4d7f-9738-1da989f8b6c6" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/294de18c-3ffb-4d7f-9738-1da989f8b6c6" controls width="150"></video>
 </td>
 
 <td>
-<video src="https://github.com/user-attachments/assets/d470fcbe-7c88-4d1b-bc05-3d0dd7382e72" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/d470fcbe-7c88-4d1b-bc05-3d0dd7382e72" controls width="150"></video>
 </td>
 
 <td>
-<video src="https://github.com/user-attachments/assets/e9139a87-c68d-4a0e-91e3-99c9ddb32744" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/e9139a87-c68d-4a0e-91e3-99c9ddb32744" controls width="150"></video>
 </td>
 
 <td>
-<video src="https://github.com/user-attachments/assets/c27b38df-e13a-46ed-98f9-811a67f178d7" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/c27b38df-e13a-46ed-98f9-811a67f178d7" controls width="150"></video>
 </td>
 
 <td>
-<video src="https://github.com/user-attachments/assets/6fb7c853-e05f-4734-8cb6-ceb69a2c2ffb" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/6fb7c853-e05f-4734-8cb6-ceb69a2c2ffb" controls width="150"></video>
 </td>
 <td>
-<video src="https://github.com/user-attachments/assets/7ffa9124-70a1-4653-b63d-263369530826" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/7ffa9124-70a1-4653-b63d-263369530826" controls width="150"></video>
 </td>
 
 </tr>
 
 <tr>
 <td>
-<video src="https://github.com/user-attachments/assets/0a1e8a43-07fc-4451-bf16-3d65656daa2a" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/0a1e8a43-07fc-4451-bf16-3d65656daa2a" controls width="150"></video>
 </td>
 <td>
-<video src="https://github.com/user-attachments/assets/c2ab58c0-2a4c-4962-b67c-7bbad70204dc" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/c2ab58c0-2a4c-4962-b67c-7bbad70204dc" controls width="150"></video>
 </td>
 <td>
-<video src="https://github.com/user-attachments/assets/bdf5321e-7c33-40ad-a799-bded85e23bca" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/bdf5321e-7c33-40ad-a799-bded85e23bca" controls width="150"></video>
 </td>
 <td>
-<video src="https://github.com/user-attachments/assets/847fcdb1-ee52-4105-ad73-87f9bbb6247e" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/847fcdb1-ee52-4105-ad73-87f9bbb6247e" controls width="150"></video>
 </td>
 <td>
-<video src="https://github.com/user-attachments/assets/75ed289e-be6d-4bb4-8806-60e036f30787" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/75ed289e-be6d-4bb4-8806-60e036f30787" controls width="150"></video>
 </td>
 <td>
-<video src="https://github.com/user-attachments/assets/c2fc7ee2-99d5-48bc-a9de-2f94e93099f0" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/c2fc7ee2-99d5-48bc-a9de-2f94e93099f0" controls width="150"></video>
 </td>
 <td>
-<video src="https://github.com/user-attachments/assets/ce6754b2-6fb7-48cc-b319-8e9e66504985" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/ce6754b2-6fb7-48cc-b319-8e9e66504985" controls width="150"></video>
 </td>
 <td>
-<video src="https://github.com/user-attachments/assets/1b305870-dc96-46ea-a40e-785419ec7425" controls width="100"></video>
+<video src="https://github.com/user-attachments/assets/1b305870-dc96-46ea-a40e-785419ec7425" controls width="150"></video>
 </td>
 
 </tr>
