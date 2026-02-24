@@ -1,4 +1,4 @@
-# 《小牛AI视频翻译》 ：专注短剧-视频出海     [☛查看下载地址](https://x6dk2ngzv4.feishu.cn/wiki/XLPBwK2X4iT0ndkDVQNcgwE7n4c)
+# 《小牛AI视频翻译》: 专注短剧-视频出海    . [☛查看下载地址](https://x6dk2ngzv4.feishu.cn/wiki/XLPBwK2X4iT0ndkDVQNcgwE7n4c)
 
 
 #### 一、介绍:
